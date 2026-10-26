@@ -115,11 +115,11 @@ I work closely with development, QA, chipset vendors, manufacturing teams, custo
 
 ## 🛠️ Tools & Technologies
 
-**Project Management:** Project Planning, RAID Logs, Milestone Tracking, Risk Management, Delivery Governance, Stakeholder Reporting
+**Project Management:** ![Planning](https://img.shields.io/badge/Planning-0A66C2?style=flat-square) ![RAID](https://img.shields.io/badge/RAID_Management-0A66C2?style=flat-square) ![Delivery](https://img.shields.io/badge/Delivery_Governance-0A66C2?style=flat-square)
 
-**Telecom & Networking:** FTTH, GPON, ONT, OLT, Broadband CPE, Wi-Fi 5, Wi-Fi 6, Mesh Networking
+**Telecom & Networking:** ![FTTH](https://img.shields.io/badge/FTTH-6C63FF?style=flat-square) ![GPON](https://img.shields.io/badge/GPON-6C63FF?style=flat-square) ![Wi-Fi](https://img.shields.io/badge/Wi--Fi_5_%7C_6-6C63FF?style=flat-square) ![Mesh](https://img.shields.io/badge/Mesh_Networking-6C63FF?style=flat-square)
 
-**Software & Integration:** OpenWrt, Firmware Lifecycle, SDK Integration, Driver Dependencies, AI Agent Integration, ACS, TR-181
+**Software & Integration:** ![OpenWrt](https://img.shields.io/badge/OpenWrt-2E8B57?style=flat-square) ![Firmware](https://img.shields.io/badge/Firmware_Delivery-2E8B57?style=flat-square) ![AI](https://img.shields.io/badge/AI_Agent_Integration-2E8B57?style=flat-square)
 
 **Delivery Lifecycle:** Requirements, Development Coordination, Integration, Validation, QA Coordination, Customer Acceptance, Release Notes, Production Deployment
 
@@ -130,6 +130,7 @@ Interested in Technical Project Manager, Technical Program Manager, Broadband Pr
 I bring a delivery-focused approach to complex technical programs, combining structured project governance with practical telecom and device-domain experience.
 
 ---
+
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raghavendra%20BN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghavendra-bn/) [![Email](https://img.shields.io/badge/Email-bgnraghu%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bgnraghu@gmail.com)
