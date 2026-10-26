@@ -11,12 +11,12 @@ I lead end-to-end technical project delivery across broadband devices, firmware 
 - Technical Project & Program Management
 - FTTH/GPON, ONT/OLT, and Broadband CPE
 - Wi-Fi 5 and Wi-Fi 6 Device Delivery
-- OpenWrt-Based Firmware Programs
+- OpenWrt-Based Firmware and AI Agent Integration
 - Project Planning, Milestones, and Delivery Governance
 - Risk, Issue, Assumption, and Dependency Management
 - Cross-Functional Engineering, QA, Vendor, and Customer Coordination
 - Firmware Integration, Validation, Release Readiness, and Customer Acceptance
-- Third-Party Agent Integration Coordination
+- Production Deployment and Release Management
 
 ---
 
@@ -24,7 +24,7 @@ I lead end-to-end technical project delivery across broadband devices, firmware 
 
 PMP-certified Technical Project Manager with 10 years of experience across telecom, broadband, FTTH/GPON, and network delivery.
 
-My experience spans project planning, requirements coordination, firmware customisation, technical dependency management, validation coordination, defect follow-up, customer acceptance, and production deployment.
+My experience spans project planning, requirements coordination, firmware customisation, technical dependency management, integration validation, defect follow-up, customer acceptance, and production deployment.
 
 I combine project leadership with practical technical understanding of broadband devices, Wi-Fi functionality, ONT interoperability, mesh technologies, IoT, and OpenWrt-based platforms.
 
@@ -37,6 +37,7 @@ I combine project leadership with practical technical understanding of broadband
 | Professional Experience | 10 years |
 | Device Deployment Scale | 1M+ devices supported |
 | Delivery Programs | Wi-Fi 5 and Wi-Fi 6 |
+| AI Agent Integration | Two distinct integrations completed |
 | Core Domain | Telecom, Broadband, FTTH/GPON |
 | Certifications | PMP® and CCNA |
 
@@ -47,8 +48,9 @@ I combine project leadership with practical technical understanding of broadband
 - Supported broadband device deployments at a scale of **1M+ devices**.
 - Coordinated initial Wi-Fi 5 delivery within a two-month timeline.
 - Coordinated Wi-Fi 6 delivery supporting approximately **500,000 devices**, completed within the planned timeline.
+- Owned integration coordination for two distinct AI agents on OpenWrt-based Wi-Fi 6 devices, from initial engagement through final binary delivery, release notes, customer acceptance, and production deployment.
+- Coordinated engineering, AI agent, and QA teams on integration changes, driver-level dependencies, functionality testing, and device performance and RAM-consumption considerations.
 - Coordinated international lab validation of ONT IoT functionality in a customer OLT environment.
-- Coordinated engineering, QA, vendor, and customer stakeholders across technical delivery activities.
 
 ---
 
@@ -64,6 +66,7 @@ I combine project leadership with practical technical understanding of broadband
 - FTTH/GPON, ONT/OLT, and Broadband CPE
 - Wi-Fi 5, Wi-Fi 6, and Mesh Validation
 - OpenWrt-Based Firmware Programs
+- AI Agent Integration Coordination
 - Firmware Customisation, Integration, and Interoperability
 - IoT Validation and ACS/CWMP Coordination
 
@@ -71,33 +74,30 @@ I combine project leadership with practical technical understanding of broadband
 - Requirements and Milestone Planning
 - Engineering and QA Coordination
 - Integration, Validation, and Defect Follow-up
-- Release Readiness and Customer Acceptance
-- Deployment Coordination and Delivery Reporting
+- Release Notes and Release Readiness
+- Customer Acceptance and Production Deployment
+- Technical Dependency and Change Coordination
 
 ---
 
 ## Portfolio Projects
 
-Explore my technical project management case studies and delivery approach.
-
 ### 1. Wi-Fi 5 Broadband Device Deployment
-
-Coordinated initial delivery within two months, with repeat purchases and subsequent deployments continuing.
+Initial delivery completed within two months, with repeat purchases and subsequent deployments continuing.
 
 [Read the Wi-Fi 5 Case Study](https://github.com/raghubgn/project-management-portfolio/blob/main/case-studies/wifi-5-device-deployment.md)
 
 ### 2. Wi-Fi 6 Broadband Device Deployment
-
 Coordinated delivery of an OpenWrt-based Wi-Fi 6 broadband device program supporting approximately 500,000 devices within the planned timeline.
 
 [Read the Wi-Fi 6 Case Study](https://github.com/raghubgn/project-management-portfolio/blob/main/case-studies/wifi-6-device-deployment.md)
 
-### 3. OpenWrt-Based Wi-Fi 6 Agent Integration
+### 3. OpenWrt-Based Wi-Fi 6 AI Agent Integration
+Completed two distinct AI agent integrations supporting VAS and analytics services, including coordination through final binary delivery, release notes, customer acceptance, and production deployment.
 
-Ongoing coordination across customer stakeholders, internal engineering and QA teams, and a third-party integration team.
+[Read the AI Agent Integration Case Study](https://github.com/raghubgn/project-management-portfolio/blob/main/case-studies/openwrt-ai-agent-integration.md)
 
 ### 4. International ONT Interoperability and IoT Validation
-
 Coordinated international lab validation of ONT IoT functionality in a customer OLT environment. Next-phase ACS test-case discussions are ongoing.
 
 [Read the International Validation Case Study](https://github.com/raghubgn/project-management-portfolio/blob/main/case-studies/international-ont-iot-validation.md)
@@ -115,7 +115,7 @@ Coordinated international lab validation of ONT IoT functionality in a customer 
 
 ## Professional Focus
 
-Technical Project Management | Project & Program Delivery | Delivery Governance | Firmware Lifecycle Coordination | Stakeholder Management | Risk & Dependency Management | Telecom & Broadband Technologies | Cross-Functional Leadership
+Technical Project Management | Project & Program Delivery | Delivery Governance | Firmware Lifecycle Coordination | AI Agent Integration | Stakeholder Management | Risk & Dependency Management | Telecom & Broadband Technologies
 
 ---
 
