@@ -133,9 +133,13 @@ I bring a delivery-focused approach to complex technical programs, combining str
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghavendra-bn/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bgnraghu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raghavendra%20BN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghavendra-bn/)
 
+[![Email](https://img.shields.io/badge/Email-bgnraghu%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bgnraghu@gmail.com)
+
+---
+
+*Driving technical delivery through structured execution, cross-functional collaboration, and program leadership.*
 ---
 
 *“Driving technical delivery through structured execution, cross-functional collaboration, and program leadership.”*
