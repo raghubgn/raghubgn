@@ -130,16 +130,10 @@ Interested in Technical Project Manager, Technical Program Manager, Broadband Pr
 I bring a delivery-focused approach to complex technical programs, combining structured project governance with practical telecom and device-domain experience.
 
 ---
-
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raghavendra%20BN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghavendra-bn/)
-
-[![Email](https://img.shields.io/badge/Email-bgnraghu%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bgnraghu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raghavendra%20BN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghavendra-bn/) [![Email](https://img.shields.io/badge/Email-bgnraghu%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bgnraghu@gmail.com)
 
 ---
 
 *Driving technical delivery through structured execution, cross-functional collaboration, and program leadership.*
----
-
-*“Driving technical delivery through structured execution, cross-functional collaboration, and program leadership.”*
