@@ -38,7 +38,7 @@ I combine project leadership with practical technical understanding of broadband
 | Device Deployment Scale | 1M+ devices supported |
 | Delivery Programs | Wi-Fi 5 and Wi-Fi 6 |
 | Core Domain | Telecom, Broadband, FTTH/GPON |
-| Certification | PMP® and CCNA |
+| Certifications | PMP® and CCNA |
 
 ---
 
@@ -52,24 +52,52 @@ I combine project leadership with practical technical understanding of broadband
 
 ---
 
+## Core Competencies
+
+**Project & Program Management**
+- Project Planning, Scheduling, and Delivery Governance
+- Risk, Issue, Assumption, and Dependency Management (RAID)
+- Stakeholder, Vendor, and Cross-Functional Team Coordination
+- Scope, Timeline, Change, and Release Management
+
+**Telecom & Technical Domain**
+- FTTH/GPON, ONT/OLT, and Broadband CPE
+- Wi-Fi 5, Wi-Fi 6, and Mesh Validation
+- OpenWrt-Based Firmware Programs
+- Firmware Customisation, Integration, and Interoperability
+- IoT Validation and ACS/CWMP Coordination
+
+**Delivery Lifecycle**
+- Requirements and Milestone Planning
+- Engineering and QA Coordination
+- Integration, Validation, and Defect Follow-up
+- Release Readiness and Customer Acceptance
+- Deployment Coordination and Delivery Reporting
+
+---
+
 ## Portfolio Projects
 
 Explore my technical project management case studies and delivery approach.
 
 ### 1. Wi-Fi 5 Broadband Device Deployment
-Initial delivery completed within two months, with repeat purchases and subsequent deployments continuing.
+
+Coordinated initial delivery within two months, with repeat purchases and subsequent deployments continuing.
 
 [Read the Wi-Fi 5 Case Study](https://github.com/raghubgn/project-management-portfolio/blob/main/case-studies/wifi-5-device-deployment.md)
 
 ### 2. Wi-Fi 6 Broadband Device Deployment
-Coordinated delivery of an OpenWrt-based Wi-Fi 6 broadband device program, supporting approximately 500,000 devices within the planned timeline.
+
+Coordinated delivery of an OpenWrt-based Wi-Fi 6 broadband device program supporting approximately 500,000 devices within the planned timeline.
 
 [Read the Wi-Fi 6 Case Study](https://github.com/raghubgn/project-management-portfolio/blob/main/case-studies/wifi-6-device-deployment.md)
 
 ### 3. OpenWrt-Based Wi-Fi 6 Agent Integration
+
 Ongoing coordination across customer stakeholders, internal engineering and QA teams, and a third-party integration team.
 
 ### 4. International ONT Interoperability and IoT Validation
+
 Coordinated international lab validation of ONT IoT functionality in a customer OLT environment. Next-phase ACS test-case discussions are ongoing.
 
 [Read the International Validation Case Study](https://github.com/raghubgn/project-management-portfolio/blob/main/case-studies/international-ont-iot-validation.md)
@@ -95,6 +123,7 @@ Technical Project Management | Project & Program Delivery | Delivery Governance 
 
 - **GitHub:** [github.com/raghubgn](https://github.com/raghubgn)
 - **LinkedIn:** [Raghavendra BN](https://www.linkedin.com/in/raghavendra-bn/)
+- **Email:** [bgnraghu@gamil.com](mailto:bgnraghu@gamil.com)
 
 ---
 
