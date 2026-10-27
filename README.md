@@ -1,6 +1,6 @@
 # Raghavendra BN | Technical Project Manager
 
-**PMP-Certified Technical Project Manager | Telecom & Broadband | FTTH/GPON | Firmware Delivery | AI Agent Integration**
+**PMP-Certified Technical Project Manager | Telecom & Broadband | FTTH/GPON | Firmware Delivery | AI-Agent Integration**
 
 Technical Project Manager with 10 years of experience delivering telecom, broadband, and connected-device programs. Experienced in end-to-end project execution, firmware release coordination, customer-specific customization, cross-functional team leadership, vendor management, integration, validation, customer acceptance, and production deployment.
 
@@ -13,9 +13,9 @@ Technical Project Manager with 10 years of experience delivering telecom, broadb
 
 ## 👤 About Me
 
-I specialize in managing technical projects from initial planning and requirements alignment through development coordination, integration, validation, release readiness, customer acceptance, and production deployment.
+I drive technical project delivery through structured planning, requirements alignment, engineering coordination, integration, validation, release readiness, customer acceptance, and production deployment.
 
-My experience spans broadband CPE, ONT/OLT interoperability, Wi-Fi device programs, OpenWrt-based platforms, mesh capabilities, firmware customization, and AI agent integration.
+My experience spans broadband CPE, ONT/OLT interoperability, Wi-Fi device programs, OpenWrt-based platforms, mesh capabilities, firmware customization, and AI-agent integration.
 
 I work closely with development, QA, chipset vendors, manufacturing teams, customer engineering teams, and external technology partners to manage dependencies, risks, milestones, and delivery commitments.
 
@@ -32,6 +32,7 @@ I work closely with development, QA, chipset vendors, manufacturing teams, custo
 - Integration, Validation & Customer Acceptance
 - Agile, Scrum & Waterfall Methodologies
 - Production Deployment & Release Readiness
+- Process Improvement & Project Reporting
 
 ## 📡 Telecom & Technical Domain
 
@@ -41,7 +42,7 @@ I work closely with development, QA, chipset vendors, manufacturing teams, custo
 - OpenWrt-Based Broadband Devices
 - Firmware Customization & Customer-Specific Requirements
 - Mesh Networking & SDK Integration
-- AI Agent Integration for VAS and Analytics
+- AI-Agent Integration for VAS and Analytics
 - Driver-Level Changes & Software Dependency Coordination
 - IoT Validation in Customer Network Environments
 - ACS and TR-181 Technical Coordination
@@ -51,59 +52,61 @@ I work closely with development, QA, chipset vendors, manufacturing teams, custo
 ![Program Value](https://img.shields.io/badge/Programs-INR_800M%2B-2E8B57?style=flat-square)
 ![Devices](https://img.shields.io/badge/Devices-1M%2B-0A66C2?style=flat-square)
 ![Schedule](https://img.shields.io/badge/Schedule_Slippage-Reduced_40%25-2E8B57?style=flat-square)
-![UAT](https://img.shields.io/badge/UAT_Acceptance-100%25-2E8B57?style=flat-square)
+![UAT](https://img.shields.io/badge/UAT_Acceptance-100%25-6C63FF?style=flat-square)
 
 - Managed and coordinated technical programs valued at INR 800M+.
-- Supported broadband device programs with 1M+ devices deployed.
+- Supported broadband device deployments exceeding 1M units across multiple customers.
 - Contributed to a 40% reduction in project schedule slippage through structured planning and delivery governance.
-- Achieved 100% UAT acceptance across relevant OLT/ONT deployment programs.
-- Contributed to approximately 20% reduction in firmware acceptance timelines through AI agent integration initiatives.
+- Coordinated delivery activities supporting 100% UAT acceptance across relevant OLT/ONT deployment programs.
+- Contributed to approximately 20% reduction in firmware acceptance timelines through AI-agent integration initiatives.
 
-## 📂 Portfolio Projects
+## 🚀 Featured Projects
 
-### 1. Wi-Fi 5 Device Deployment
+Selected technical delivery programs demonstrating project governance, cross-functional coordination, firmware lifecycle management, and integration delivery.
 
-![Completed](https://img.shields.io/badge/Status-Completed-2E8B57?style=flat-square)
+### 1. Wi-Fi 5 Broadband Device Deployment
 
-- Coordinated initial project delivery within two months.
-- Supported deployment of 1M+ devices, with repeat device deployments continuing.
-- Managed customer requirements, firmware coordination, validation, issue resolution, and delivery dependencies.
+![Status](https://img.shields.io/badge/Status-Completed-2E8B57?style=flat-square)
+![Scale](https://img.shields.io/badge/Deployment-1M%2B_Across_Customers-0A66C2?style=flat-square)
 
-[View Wi-Fi 5 Case Study](https://github.com/raghubgn/project-management-portfolio/blob/main/case-studies/wifi-5-device-deployment.md)
+- Coordinated customer requirements, firmware customization, engineering, QA, vendors, and delivery milestones.
+- Managed technical dependencies, issue resolution, and release readiness across customer engagements.
+- Supported deployments exceeding 1M devices across multiple customers.
 
-### 2. Wi-Fi 6 Device Deployment
+[**View Wi-Fi 5 Case Study →**](https://github.com/raghubgn/project-management-portfolio/blob/main/case-studies/wifi-5-device-deployment.md)
 
-![Completed](https://img.shields.io/badge/Status-Completed-2E8B57?style=flat-square)
+### 2. Wi-Fi 6 Broadband Device Deployment
 
-- Coordinated a Wi-Fi 6 program delivered within approximately four months.
+![Status](https://img.shields.io/badge/Status-Completed-2E8B57?style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-OpenWrt-6C63FF?style=flat-square)
+
+- Coordinated firmware delivery, engineering dependencies, QA validation, and customer requirements.
 - Supported deployment of approximately 500,000 devices.
-- Coordinated OpenWrt-based device firmware delivery, testing, defect resolution, and customer requirements.
+- Managed delivery tracking, issue resolution, and release coordination.
 
-[View Wi-Fi 6 Case Study](https://github.com/raghubgn/project-management-portfolio/blob/main/case-studies/wifi-6-device-deployment.md)
+[**View Wi-Fi 6 Case Study →**](https://github.com/raghubgn/project-management-portfolio/blob/main/case-studies/wifi-6-device-deployment.md)
 
-### 3. OpenWrt-Based Wi-Fi 6 AI Agent Integration
+### 3. OpenWrt-Based Wi-Fi 6 AI-Agent Integration
 
-![Completed](https://img.shields.io/badge/Status-Completed-2E8B57?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-2E8B57?style=flat-square)
+![Integration](https://img.shields.io/badge/Integration-2_AI_Agents-6C63FF?style=flat-square)
 
-- Owned coordination of two distinct AI agent integrations supporting VAS services and analytics.
-- Managed delivery coordination from initial engagement with the AI agent teams through final binary delivery.
-- Coordinated integration changes, software upgrades, and driver-level dependencies across AI agent and device development teams.
-- Worked with QA teams on major functionality testing and issue follow-up.
-- Coordinated technical assessments of potential impacts on device performance and RAM consumption.
-- Coordinated final binary delivery, release notes, customer acceptance, and production deployment.
+- Coordinated two AI-agent integrations supporting VAS and analytics services.
+- Aligned device and agent development teams on integration requirements, software upgrades, and driver-level dependencies.
+- Coordinated validation, issue follow-up, final binary delivery, release notes, and customer acceptance.
 
-[View AI Agent Integration Case Study](https://github.com/raghubgn/project-management-portfolio/blob/main/case-studies/openwrt-ai-agent-integration.md)
+[**View AI-Agent Integration Case Study →**](https://github.com/raghubgn/project-management-portfolio/blob/main/case-studies/openwrt-ai-agent-integration.md)
 
 ### 4. International ONT Interoperability & IoT Validation
 
-![Lab Validation Complete](https://img.shields.io/badge/Lab_Validation-Complete-2E8B57?style=flat-square)
+![Lab Validation](https://img.shields.io/badge/Lab_Validation-Completed-2E8B57?style=flat-square)
 ![Next Phase](https://img.shields.io/badge/Next_Phase-Ongoing-D97706?style=flat-square)
 
-- Coordinated international lab validation with customer engineering teams.
-- Supported ONT interoperability and IoT validation in the customer's existing OLT environment.
-- Coordinated technical discussions and follow-up activities for the next phase of testing.
+- Coordinated international customer engagement and technical discussions.
+- Supported ONT interoperability and IoT validation within the customer's existing OLT environment.
+- Coordinated lab activities and follow-up discussions for the next phase.
 
-[View International ONT Case Study](https://github.com/raghubgn/project-management-portfolio/blob/main/case-studies/international-ont-iot-validation.md)
+[**View International ONT Case Study →**](https://github.com/raghubgn/project-management-portfolio/blob/main/case-studies/international-ont-iot-validation.md)
 
 ## 🎓 Certifications
 
@@ -115,25 +118,33 @@ I work closely with development, QA, chipset vendors, manufacturing teams, custo
 
 ## 🛠️ Tools & Technologies
 
-**Project Management:** ![Planning](https://img.shields.io/badge/Planning-0A66C2?style=flat-square) ![RAID](https://img.shields.io/badge/RAID_Management-0A66C2?style=flat-square) ![Delivery](https://img.shields.io/badge/Delivery_Governance-0A66C2?style=flat-square)
+**Project Management:** Jira, ClickUp, Microsoft Project
 
-**Telecom & Networking:** ![FTTH](https://img.shields.io/badge/FTTH-6C63FF?style=flat-square) ![GPON](https://img.shields.io/badge/GPON-6C63FF?style=flat-square) ![Wi-Fi](https://img.shields.io/badge/Wi--Fi_5_%7C_6-6C63FF?style=flat-square) ![Mesh](https://img.shields.io/badge/Mesh_Networking-6C63FF?style=flat-square)
+**Collaboration & Reporting:** Microsoft Teams, SharePoint, Excel Dashboards
 
-**Software & Integration:** ![OpenWrt](https://img.shields.io/badge/OpenWrt-2E8B57?style=flat-square) ![Firmware](https://img.shields.io/badge/Firmware_Delivery-2E8B57?style=flat-square) ![AI](https://img.shields.io/badge/AI_Agent_Integration-2E8B57?style=flat-square)
+**Telecom & Networking:** FTTH, GPON, ONT/OLT, Broadband CPE, Wi-Fi 5/6, Mesh Networking
 
-**Delivery Lifecycle:** Requirements, Development Coordination, Integration, Validation, QA Coordination, Customer Acceptance, Release Notes, Production Deployment
+**Software & Integration:** OpenWrt, Firmware Delivery, SDK Dependencies, AI-Agent Integration, Integration Testing
+
+**Delivery Lifecycle:** Requirements, Planning, Development Coordination, Validation, QA Coordination, Customer Acceptance, Release Notes, Production Deployment
 
 ## 💼 Professional Focus
 
+![Technical PM](https://img.shields.io/badge/Technical_Project_Management-0A66C2?style=flat-square)
+![Program Delivery](https://img.shields.io/badge/Program_Delivery-2E8B57?style=flat-square)
+![SDLC](https://img.shields.io/badge/SDLC_Coordination-6C63FF?style=flat-square)
+![Product Lifecycle](https://img.shields.io/badge/Product_Lifecycle-0A66C2?style=flat-square)
+
 Interested in Technical Project Manager, Technical Program Manager, Broadband Product Delivery, Firmware Program Management, and Technical Delivery Leadership opportunities.
 
-I bring a delivery-focused approach to complex technical programs, combining structured project governance with practical telecom and device-domain experience.
+I bring a delivery-focused approach to complex technical programs, combining structured project governance, cross-functional collaboration, and practical telecom and device-domain expertise.
 
 ---
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raghavendra%20BN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghavendra-bn/) [![Email](https://img.shields.io/badge/Email-bgnraghu%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bgnraghu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raghavendra%20BN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghavendra-bn/)
+[![Email](https://img.shields.io/badge/Email-bgnraghu%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bgnraghu@gmail.com)
 
 ---
 
